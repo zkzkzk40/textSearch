@@ -1,0 +1,38 @@
+
+N	java:S106R"9Replace this use of System.out or System.err by a logger.(Èœİ¨
+M	java:S106["9Replace this use of System.out or System.err by a logger.(¡âôe
+T	java:S106µ"9Replace this use of System.out or System.err by a logger.(§Ê°üÿÿÿÿ
+O
+java:S1854a":Remove this useless assignment to local variable "result".(İæ6
+?
+java:S1128")Remove this unused import 'java.io.File'.(†Ğ¥Å
+R	java:S125«"<This block of commented-out lines of code should be removed.(É—î
+=
+java:S1659""Declare "text" on a separate line.(ÿééÛûÿÿÿÿ
+V	java:S125u"<This block of commented-out lines of code should be removed.(îæşÿÿÿÿ
+e
+java:S1128"JRemove this unused import 'org.apache.lucene.search.BooleanQuery.Builder'.(ç¾„€ıÿÿÿÿ
+g
+java:S1128"QRemove this unused import 'org.apache.lucene.analysis.standard.StandardAnalyzer'.(­‡ä¨
+O
+java:S1128"9Remove this unused import 'javax.swing.text.Highlighter'.(ÎŞÌä
+@
+java:S1481a"+Remove this unused "result" local variable.(İæ6
+i	java:S100¤"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(çşĞúÿÿÿÿ
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ë°Åñ
+N
+java:S1854²"7Remove this useless assignment to local variable "map".(îö
+\
+java:S2147º"ECombine this catch with the one at line 184, which has the same body.(”ı¾
+Q	java:S125}"<This block of commented-out lines of code should be removed.(Õ¯Ğç
+>
+java:S1659"#Declare "index" on a separate line.(ÿééÛûÿÿÿÿ
+S	java:S106]"9Replace this use of System.out or System.err by a logger.(úÁšÔùÿÿÿÿ
+_
+java:S1128"IRemove this unused import 'org.apache.lucene.search.BooleanClause.Occur'.(¥ÒíÏ
+\	java:S112„"FDefine and throw a dedicated exception instead of using a generic one.(ı–Š¼
+f	java:S117'"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™ä¿ï
+i	java:S100 "NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ñô±‰üÿÿÿÿ
+H
+java:S1128"-Remove this unused import 'java.util.Vector'.(ÿŒ¸Áÿÿÿÿÿ
+S	java:S106Z"9Replace this use of System.out or System.err by a logger.(¦ÒŒüÿÿÿÿ

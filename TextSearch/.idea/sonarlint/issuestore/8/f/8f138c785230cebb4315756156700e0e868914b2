@@ -1,0 +1,24 @@
+
+E
+java:S3740"/Provide the parametrized type for this generic.(Œğ¦
+E
+java:S3740"/Provide the parametrized type for this generic.(Œğ¦
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(©×ì
+S	java:S106@"9Replace this use of System.out or System.err by a logger.(¤¸¤ûÿÿÿÿ
+V	java:S125<"<This block of commented-out lines of code should be removed.(×®¼ÿıÿÿÿÿ
+a
+java:S2095"KUse try-with-resources or close this "HSLFSlideShow" in a "finally" clause.(¾Áú£
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ïÅ«Êıÿÿÿÿ
+m
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(ÔöÌ÷ıÿÿÿÿ
+S	java:S106>"9Replace this use of System.out or System.err by a logger.(¤¸¤ûÿÿÿÿ
+c
+java:S2095"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(ÀˆóÙ
+J
+java:S3740"/Provide the parametrized type for this generic.(÷é´˜üÿÿÿÿ
+e
+java:S2095"JUse try-with-resources or close this "XMLSlideShow" in a "finally" clause.(“ƒù€ûÿÿÿÿ
+D
+java:S3740"/Provide the parametrized type for this generic.(áèœ
+Z
+java:S21475"DCombine this catch with the one at line 51, which has the same body.(ï­£Ä

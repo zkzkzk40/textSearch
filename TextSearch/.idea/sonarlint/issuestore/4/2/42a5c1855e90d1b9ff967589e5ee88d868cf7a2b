@@ -1,0 +1,38 @@
+
+_
+java:S2095D"JUse try-with-resources or close this "HSSFWorkbook" in a "finally" clause.(¦ åQ
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¸œ¤ºýÿÿÿÿ
+_
+java:S2095"JUse try-with-resources or close this "HSSFWorkbook" in a "finally" clause.(¦ åQ
+2
+java:S1643%"Use a StringBuilder instead.(§ÙŸª
+m
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(ÔöÌ÷ýÿÿÿÿ
+7
+java:S1643("Use a StringBuilder instead.(½–åòÿÿÿÿÿ
+_
+java:S2095A"JUse try-with-resources or close this "XSSFWorkbook" in a "finally" clause.(…ÑÔ
+c
+java:S2095>"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(ß½„Ã
+_
+java:S2095"JUse try-with-resources or close this "XSSFWorkbook" in a "finally" clause.(…ÑÔ
+Z
+java:S2147P"DCombine this catch with the one at line 78, which has the same body.(ï­£Ä
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ïÅ«Êýÿÿÿÿ
+V	java:S125Y"<This block of commented-out lines of code should be removed.(¼‡þºÿÿÿÿÿ
+S	java:S106K"9Replace this use of System.out or System.err by a logger.(ÃšÝêùÿÿÿÿ
+?
+java:S1481<")Remove this unused "file" local variable.(ÀÊ÷Ë
+O
+java:S3516:"9Refactor this method to not always return the same value.(ï‹ÇÅ
+Z
+java:S2147/"DCombine this catch with the one at line 45, which has the same body.(ï­£Ä
+N	java:S106Z"9Replace this use of System.out or System.err by a logger.(”“î€
+c
+java:S2095"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(ß½„Ã
+?
+java:S1481")Remove this unused "file" local variable.(ÀÊ÷Ë
+7
+java:S1643""Use a StringBuilder instead.(øðê²úÿÿÿÿ
+M
+java:S1144:"7Remove this unused private "getExcelLineNumber" method.(ï‹ÇÅ

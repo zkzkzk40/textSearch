@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Spire.Doc">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/main/lib/Spire.Doc.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

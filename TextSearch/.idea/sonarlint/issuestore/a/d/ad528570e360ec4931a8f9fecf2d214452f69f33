@@ -1,0 +1,84 @@
+
+€
+java:S1149#"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(Ìáªƒÿÿÿÿÿ
+E
+java:S1611Œ"/Remove the parentheses around the "e" parameter(÷ôÏ`
+{
+java:S1149%"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(‚å†â
+Q
+java:S1117Ç"5Rename "f" which hides the field declared at line 21.(ó­ğÒÿÿÿÿÿ
+p	java:S116+"VRename this field "TextContent" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Üàû¤ûÿÿÿÿ
+t
+java:S2293 "YReplace the type specification in this constructor call with the diamond operator ("<>").(Çê¬òûÿÿÿÿ
+E
+java:S3740%"/Provide the parametrized type for this generic.(‚å†â
+Q
+java:S1117¥"5Rename "t" which hides the field declared at line 51.(åÈòşÿÿÿÿ
+J
+java:S3740#"/Provide the parametrized type for this generic.(Ìáªƒÿÿÿÿÿ
+`
+java:S3252Ó"IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(¢¡´
+K
+java:S3740¯"/Provide the parametrized type for this generic.(åÈòşÿÿÿÿ
+?
+java:S1604ñ"(Make this anonymous inner class a lambda(œÒ€
+?
+java:S1604‹"(Make this anonymous inner class a lambda(¹ˆ³£
+h
+java:S3776K"RRefactor this method to reduce its Cognitive Complexity from 46 to the 15 allowed.( Üó
+
+java:S1149¯"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(åÈòşÿÿÿÿ
+f	java:S117U"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(† ¨
+R	java:S125å"<This block of commented-out lines of code should be removed.(Èóô¡
+R	java:S110¦"<This class has 6 parents which is greater than 5 authorized.(”œ¸Ò
+Q
+java:S1117¯"5Rename "t" which hides the field declared at line 51.(åÈòşÿÿÿÿ
+F
+java:S1611Ó"/Remove the parentheses around the "e" parameter(®Šœ…
+‹
+java:S1319®"tThe type of the "arrayList" object should be an interface such as "List" rather than the implementation "ArrayList".(Éâ¿ö
+F
+java:S1611ß"/Remove the parentheses around the "e" parameter(‰’şÀ
+P
+java:S2130»"9Use "Integer.parseInt" for this string-to-int conversion.(Ú¡ªÓ
+P
+java:S1117ß"9Rename "index" which hides the field declared at line 25.(—šò
+J
+java:S3740#"/Provide the parametrized type for this generic.(Ìáªƒÿÿÿÿÿ
+g	java:S117Ò"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ôçş©
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÁÕŒüÿÿÿÿ
+g	java:S116-"RRename this field "ScrollT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ëà‰ÿ
+f	java:S117Z"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™¡’Ä
+z
+java:S11499"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ú¥“u
+˜
+java:S1186¯"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(›™¥…
+O	java:S106ã"9Replace this use of System.out or System.err by a logger.(±¤ª¹
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Á¢€Ä
+K
+java:S3740¯"/Provide the parametrized type for this generic.(åÈòşÿÿÿÿ
+>
+java:S1604Ã"(Make this anonymous inner class a lambda(ÁƒŒz
+g	java:S117ú"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Œ×Í¥
+D
+java:S1604ş"(Make this anonymous inner class a lambda(¥Ş¯ûÿÿÿÿ
+K
+java:S3740¥"/Provide the parametrized type for this generic.(åÈòşÿÿÿÿ
+D
+java:S1604×"(Make this anonymous inner class a lambda(ìŞ³Ùûÿÿÿÿ
+>
+java:S1604ä"(Make this anonymous inner class a lambda(ÿ¸õ
+o	java:S116"URename this field "SearchText" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—¡ò¸ùÿÿÿÿ
+o	java:S116 "URename this field "SearchType" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Çê¬òûÿÿÿÿ
+K
+java:S3740¥"/Provide the parametrized type for this generic.(åÈòşÿÿÿÿ
+?
+java:S1604Å"(Make this anonymous inner class a lambda(ëÛóĞ
+K
+java:S1611Â"/Remove the parentheses around the "e" parameter(Á÷„ûûÿÿÿÿ
+k	java:S116/"VRename this field "TextLighter" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’ù¿İ
+q	java:S116"WRename this field "SearchButton" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ë‘‰‡ÿÿÿÿÿ
+˜
+java:S1186¢"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(›™¥…
+
+java:S1149¥"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(åÈòşÿÿÿÿ

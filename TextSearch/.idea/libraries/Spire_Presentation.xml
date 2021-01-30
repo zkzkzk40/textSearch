@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Spire.Presentation">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/main/lib/Spire.Presentation.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

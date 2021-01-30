@@ -1,0 +1,17 @@
+
+N	java:S106$"9Replace this use of System.out or System.err by a logger.(³“Â™
+B
+java:S1128",Remove this unused import 'java.util.Queue'.(Äá™ô
+Q	java:S125"<This block of commented-out lines of code should be removed.(”Î”¯
+S	java:S106-"9Replace this use of System.out or System.err by a logger.(Å­ËÝúÿÿÿÿ
+J
+java:S3740"/Provide the parametrized type for this generic.(”€Ñþÿÿÿÿ
+a	java:S101	"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¸èŠ\
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ê¹‘Ê
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ùÙæ
+F
+java:S1128"0Remove this unused import 'java.nio.file.Paths'.(áè°¯
+V	java:S125 "<This block of commented-out lines of code should be removed.(µ¹™øÿÿÿÿ
+†
+java:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(™˜«½
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ƒ¡„Âÿÿÿÿÿ
